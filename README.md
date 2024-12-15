@@ -1,6 +1,6 @@
 🌸 **Hello! I'm Jiayu Xiong** 🌸
 
-🎓 **Master’s Student at Huaqiao University**  
+🎓 **Master’s Student at Huaqiao University**, Advisor: Jing Wang  
 💻 **Background:** B.S. & M.S. in Computer Science
 
 🔍 **Research Interests:**  
