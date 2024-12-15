@@ -18,7 +18,7 @@
   - Entropy 📉
 
 🎶 **A Bit About Me:**  
-When I'm not immersed in code and algorithms, you'll find me strumming my beautiful **pipa** 🎸 or tinkering with my *immovable* piano 🎹 (almost made it to music school thanks to self-study! 🎼).
+Have a beautiful **pipa** (chinese lute, 琵琶) and an *immovable* piano 🎹 (almost made it to music school thanks to self-study! 🎼).
 
 🚀 **Looking Ahead:**  
 Eager to embark on a **PhD** journey to further explore and innovate at the intersection of technology and natural sciences.
